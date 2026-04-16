@@ -20,13 +20,13 @@ This project is designed to assist real estate investors by providing data-drive
 Here are the different views of the application:
 
 #### 1. Price Prediction Tab
-![Prediction Tab](Screenshot 2026-04-16 130232)
+![Prediction Tab](Screenshot 2026-04-16 130232.png)
 
 #### 2. Investment Insights Tab
-![Insights Tab](Screenshot 2026-04-16 130252)
+![Insights Tab](Screenshot 2026-04-16 130252.png)
 
 #### 3. Data Analysis Tab
-![Analysis Tab](Screenshot 2026-04-16 130343)
+![Analysis Tab](Screenshot 2026-04-16 130343.png)
 
 
 ## 📂 Project Structure
