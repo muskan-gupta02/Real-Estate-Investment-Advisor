@@ -16,9 +16,17 @@ This project is designed to assist real estate investors by providing data-drive
 - **ML Ops:** MLflow
 - **Frontend:** Streamlit
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](your_screenshot_name.png) 
+### 📊 Project Dashboard
+Here are the different views of the application:
 
+#### 1. Price Prediction Tab
+![Prediction Tab](Screenshot 2026-04-16 130232)
+
+#### 2. Investment Insights Tab
+![Insights Tab](Screenshot 2026-04-16 130252)
+
+#### 3. Data Analysis Tab
+![Analysis Tab](Screenshot 2026-04-16 130343)
 
 
 ## 📂 Project Structure
